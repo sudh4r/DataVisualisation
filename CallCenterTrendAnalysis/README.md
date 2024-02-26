@@ -12,14 +12,6 @@ One challenge that I encountered was how to display line charts of the KPIs over
 
 The other two tasks also looked interesting, can't wait to get started on those. 
 
-PwC Forage Link : https://www.theforage.com/simulations/pwc-ch/power-bi-cqxg
-
-Task Github Link : https://github.com/TimKong21/PwC-Switzerland-Power-BI-in-Data-Analytics-Virtual-Case-Experience
-
 Here is the final output of the report.
 
 ![image](https://github.com/sudh4r/DataVisualisation/blob/dev/CallCenterTrendAnalysis/CallCentreAnalysis.png)
-
-2. Netflix Report - Final Output
-
-![image](https://github.com/sudh4r/DataVisualisation/blob/dev/NetflixReport/NetflixReport.png)
